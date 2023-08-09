@@ -38,7 +38,7 @@ I am open to new languages, technologies, and practices.
 		},
 		"frameworks": {
 			"Spring Framework", "Spring Boot", "Spring Cloud", "Spring Data", "Spring Security",
-			 "Spring Web", "Apache Camel", "JPA", "Hibernate", "QueryDSL", "MyBatis",
+			"Spring Web", "Apache Camel", "JPA", "Hibernate", "QueryDSL", "MyBatis",
 		},
 		"cloud": {
 			"AWS", "Azure",
@@ -81,6 +81,8 @@ I am open to new languages, technologies, and practices.
 ### metrics
 ![Metrics](https://metrics.lecoq.io/vlaship?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=ruby%2C%20html%2C%20css%2C%20tsql&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
 
-### contact me
-<a href="https://linkedin.com/in/shipovalov"><img src="https://img.shields.io/badge/-shipovalov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
+### me
+[![GitHub](https://img.shields.io/badge/-vlaship-100000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vlaship)
+[![LinkedIn](https://img.shields.io/badge/-shipovalov-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shipovalov)
+[![DEV.TO](https://img.shields.io/badge/-vlaship-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vlaship)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fvlaship&logo=leetcode&logoColor=yellow)](https://leetcode.com/vlaship/)
