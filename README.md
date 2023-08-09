@@ -84,5 +84,6 @@ I am open to new languages, technologies, and practices.
 ### me
 [![GitHub](https://img.shields.io/badge/-vlaship-100000.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/vlaship)
 [![LinkedIn](https://img.shields.io/badge/-shipovalov-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shipovalov)
+[![Mastodon](https://img.shields.io/badge/-@vlaship-6364FF.svg?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mas.to/@vlaship)
 [![DEV.TO](https://img.shields.io/badge/-vlaship-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vlaship)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fvlaship&logo=leetcode&logoColor=yellow)](https://leetcode.com/vlaship/)
