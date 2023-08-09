@@ -51,7 +51,7 @@ I am open to new languages, technologies, and practices.
 			"BitBucket Pipelines", "SonarQube", "Nexus",
 		},
 		"testing": {
-			"JUnit", "Mockito", "TestNG", "Jacoco",
+			"JUnit", "Mockito", "TestNG", "Jacoco", "Testify",
 		},
 		"bpmn": {
 			"Camunda",
@@ -82,7 +82,4 @@ I am open to new languages, technologies, and practices.
 <a href="https://linkedin.com/in/shipovalov"><img src="https://img.shields.io/badge/-shipovalov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### github metrics
-![stats](https://github-readme-stats.vercel.app/api?username=vlaship&theme=transparent&show_icons=true&layout=compact)
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vlaship&theme=transparent&show_icons=true&layout=compact&langs_count=4)
-
-![Metrics](https://metrics.lecoq.io/vlaship?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
+![Metrics](https://metrics.lecoq.io/vlaship?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=ruby%2C%20html%2C%20css%2C%20tsql&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=America%2FNew_York)
