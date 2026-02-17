@@ -6,22 +6,16 @@ import "fmt"
 
 func main() {
 	username := "vlaship"
-	position := "Senior Software Engineer"
+	position := "Senior/Lead/Staff Software Engineer"
 	linkedIn := "https://www.linkedin.com/in/shipovalov/"
 
 	summary := `
-	I am a hard worker who enjoys tackling complex problems. I spent the past years in an Agile development
-process using Scrum and Kanban, pushing our releases through CI/CD using Jenkins, Gitlab, and GitHub Actions
-as part of a DevOps process. I am very autonomous, capable of solving complex problems, and consistently delivering
-on-time results. I am highly skilled in Java, Kotlin, Spring Framework, Hibernate, SQL, and NoSQL databases,
-BigData technologies, DevOps tools, etc. I have had experience managing a small team of developers during
-a 3-month delivery effort and would like to do more of that. I have also helped evaluate new developers
-and SRE candidates during interviews.
-
-	I am looking for an opportunity to work with a small team of dynamic developers
-where I can learn and grow. I am particularly interested in improving my management and leadership skills.
-I am open to new languages, technologies, and practices.
-	`
+	Senior Software Engineer with 10+ years of experience building backend systems in finance and e-commerce domains.
+Developed services using microservices architecture, improved CI/CD processes, and migrated legacy code to modern codebases.
+Strong expertise in Java, Kotlin, and Spring Framework. Have practical experience with distributed systems, messaging,
+real-time data processing, Kubernetes, and Go. Enjoy mentoring junior engineers, testing new technologies through proof-of-concepts,
+and delivering quality software from planning to production.
+`
 
 	skills := map[string][]string{
 		"languages": {
