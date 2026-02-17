@@ -10,11 +10,12 @@ func main() {
 	linkedIn := "https://www.linkedin.com/in/shipovalov/"
 
 	summary := `
-	Senior Software Engineer with 10+ years of experience building backend systems in finance and e-commerce domains.
-Developed services using microservices architecture, improved CI/CD processes, and migrated legacy code to modern codebases.
-Strong expertise in Java, Kotlin, and Spring Framework. Have practical experience with distributed systems, messaging,
-real-time data processing, Kubernetes, and Go. Enjoy mentoring junior engineers, testing new technologies through proof-of-concepts,
-and delivering quality software from planning to production.
+	Senior Software Engineer with 10+ years of experience building backend systems in finance and e-commerce
+domains. Developed services using microservices architecture, improved CI/CD processes, and migrated legacy
+code to modern codebases. Strong expertise in Java, Kotlin, and Spring Framework. Have practical experience
+with distributed systems, messaging, real-time data processing, Kubernetes, and Go. Enjoy mentoring junior
+engineers, testing new technologies through proof-of-concepts, and delivering quality software from planning
+to production.
 `
 
 	skills := map[string][]string{
