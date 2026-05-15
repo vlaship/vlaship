@@ -20,20 +20,20 @@ to production.
 
 	skills := map[string][]string{
 		"languages": {
-			"Java", "Kotlin", "Golang", "JavaScript", "Rust", "C", "C++", "C#", "SQL", "Bash",
+			"Java", "Kotlin", "Golang", "Rust", "JavaScript", "SQL",
 		},
 		"queues": {
 			"Apache ActiveMQ", "RabbitMQ", "Apache Kafka", "IBM MQ",
 		},
 		"databases": {
-			"PostgreSQL", "MySQL", "SQLServer", "MongoDB", "Redis", "IBM BD2",
+			"PostgreSQL", "MongoDB", "Redis",
 		},
 		"db_migrations": {
-			"Flyway", "Liquibase", "Goose",
+			"Liquibase", "Flyway", "Goose",
 		},
 		"frameworks": {
-			"Spring Framework", "Spring Boot", "Spring Cloud", "Spring Data", "Spring Security",
-			"Spring Web", "Apache Camel", "JPA", "Hibernate", "QueryDSL", "MyBatis",
+			"Spring Framework", "Spring Boot", "Spring Web", "Spring Cloud",
+			"Spring Data JDBC/JPA", "Spring Security", "Hibernate",
 		},
 		"cloud": {
 			"AWS", "Azure",
@@ -42,8 +42,8 @@ to production.
 			"Azure Databricks", "Apache Spark", "Apache Storm",
 		},
 		"devops": {
-			"Jenkins", "Gitlab", "GitHub Actions", "Docker", "Kubernetes", "Apache Maven", "Gradle",
-			"BitBucket Pipelines", "SonarQube", "Nexus",
+			"Jenkins", "Gitlab", "GitHub Actions", "Docker", "Kubernetes",
+			 "Apache Maven", "Gradle",
 		},
 		"testing": {
 			"JUnit", "Mockito", "TestNG", "Jacoco", "Testify",
@@ -52,7 +52,7 @@ to production.
 			"Camunda",
 		},
 		"protocols": {
-			"HTTP", "REST", "GraphQL", "SOAP", "gRPC", "WebSockets", "AMQP", "JMS", "RSocket",
+			"HTTP", "REST", "GraphQL", "SOAP", "gRPC", "WebSockets", "JMS",
 		},
 		"UI": {
 			"React", "JSP", "Thymeleaf",
